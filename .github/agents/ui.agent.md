@@ -1,4 +1,5 @@
 ---
+name: UI Agent
 description: 'UI Agent to build user interfaces based on user requirements.'
 tools: []
 ---
